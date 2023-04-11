@@ -517,7 +517,7 @@
                 "product": {
                     "merchantAcct": "sf12",
                     "productId": "1640293196741488640",
-                    "productIcon": "/image/2023-04-11/16/1645711623696297984",
+                    "productIcon": "http://d2zb2y1jpfi6fu.cloudfront.net/ad-img/image/20230411/3.gif",
                     "productName": "全国空降",
                     "productUrl": "https://sfe534.com/yhksa",
                     "productAndroidUrl": null,
