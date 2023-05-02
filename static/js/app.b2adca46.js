@@ -490,7 +490,7 @@
                 }
             },
             o = [{
-                cdnLine: "https://sf12.tfvb99.cn",
+                cdnLine: "https://sf12.kowtmqq.cn",
                 cdnName: "国内线路"
             }],
             c = [{
