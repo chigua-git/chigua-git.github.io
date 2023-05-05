@@ -1326,7 +1326,7 @@
                 "preview": false,
                 "hasCollect": false,
                 "isSync": null
-            }, {"merchantAcct":"sf12","mediaId":"1654390089860788224","categoryId":"1639113775341645824","mediaType":6,"payType":1,"goldPayUnit":null,"userLevel":null,"top":0,"recommend":0,"viewCount":4,"fakeViewCount":0,"favorCount":0,"fakeFavorCount":0,"commentCount":0,"rewardCount":0,"publishTime":null,"video":null,"userInfoPo":null,"article":null,"actor":null,"product":{"merchantAcct":"sf12","productId":"1654390089860788224","productIcon":"/image/2023-05-05/15/1654390053676658688","productName":"小红书","productUrl":"https://xhs001.live?share=WUX8FT","productAndroidUrl":null,"productIosUrl":null,"productJumpType":2,"productDetail":"1","subscriptId":null,"isShowClick":0,"startPublishTime":"2023-05-05 02:35:25","endPublishTime":null,"createTime":"2023-05-05 15:38:29","updateTime":"2023-05-05 15:38:37","createAcct":"kongyiji12","updateAcct":"kongyiji12","expand":null,"subscript":null},"anchor":null,"tagList":null,"hasFavor":false,"hasFollow":false,"preview":false,"hasCollect":false,"isSync":null}, {
+            }, {
                 "merchantAcct": "sf12",
                 "mediaId": "1641716485496385536",
                 "categoryId": "1639113775341645824",
