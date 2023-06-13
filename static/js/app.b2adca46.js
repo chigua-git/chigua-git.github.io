@@ -596,7 +596,7 @@
       },
       o = [
         {
-          cdnLine: "https://sf012.weeqqzb.cn",
+          cdnLine: "https://sf12.shuilibu.net",
           cdnName: "国内线路",
         },
       ],
